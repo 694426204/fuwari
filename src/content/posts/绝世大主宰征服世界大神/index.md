@@ -2,7 +2,7 @@
 title: 《人祖传》深度解构：生存博弈与存在主义的黑暗寓言
 published: 2026-07-26
 description: 深度剖析《蛊真人》中《人祖传》的规则共识、蛊虫设定、等级体系与生存哲学，探讨其存在主义的哲学内涵
-image: "./renzu.png"
+image: "./hierarchy.png"
 tags: ["蛊真人", "人祖传", "存在主义", "哲学分析", "方源"]
 category: 文学分析
 draft: false
