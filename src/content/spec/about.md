@@ -29,4 +29,25 @@
 
 > 因缘际会，只要不死，终会相见。
 
-::github{repo="694426204"}
+## 联系
+
+<!-- 点击链接加我为QQ好友：[https://qm.qq.com/q/zI3toBPkci](https://qm.qq.com/q/zI3toBPkci)
+
+> 本站基于 [qq](https://qm.qq.com/q/zI3toBPkci) 构建
+
+> ### 本站使用的图片来源
+>
+> - Unsplash
+> - 蛊真人小说原著插画
+> - Reddit r/ReverendInsanity
+
+# About -->
+
+This is the hyperlink site for [QQ](https://qm.qq.com/q/zI3toBPkci).
+
+::github{repo="QQ/694426204"}
+
+<!-- > ### Sources of images used in this site
+>
+> - [Unsplash](https://unsplash.com/)
+> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965) -->
